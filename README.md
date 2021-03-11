@@ -29,4 +29,19 @@ Ce dernier a crée une backdoor (porte dérobée) vers les SI des clients de Sol
 
 (Selon SolarWinds à la SEC)
 
+Jusqu'à 18.000 des clients de Solarwinds auraient installé la mise à jour comportant le virus malveillant.
+Que ce soit des entreprises privées, ou des agences du gouvernement Américain.
 
+Le piratage a été effectué de manière si discrète que plusieurs victimes ne pourront seront jamais si elles ont été impactés par le piratage.
+
+Les pirates auraient réussi à accéder aux comptes de messagerie et dans le réseau où se trouve "les plus hauts responsable du département" mais selon l'IRS aucune preuve de compromission aurait été trouvé et que les pirates n'auraieu accès qu'a des dossiers non classifiés.
+
+&nbsp; 
+
+## Qui est à l'origine de ce piratage ? 
+
+D'après les enquêteurs fédéraux et les experts en cybersécurité, le service de Renseignement Extérieur Russe (aussi connu sous le nom de SVR) serait à l'origine de l'attaque.
+
+La Russie a nié toute implication dans la brèche.
+
+M.Smith de Microsoft à déclaré qu'il pensait que le Russie était àl'origine de l'attaque. Et Kevin Mandia, PDG de FireEye à déclaré sur la base de l'analyse médico-légale de sa société que l'espionnage et les comportements se raprocher de la manière de faire des Russes.
