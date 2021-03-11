@@ -1,6 +1,7 @@
 # SolarWinds
 
 ![image](media/solar_intro.jpg)
+![topologie](media/topologie_attack.png)
 
 ## Cyberattaque dirigée contre les USA
 
