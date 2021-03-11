@@ -53,3 +53,6 @@ M.Smith de Microsoft à déclaré qu'il pensait que le Russie était àl'origine
 A la suite de cette Attaque il sera très compliqué de sécuriser à nouveau les réseaux pendants plusieurs années. Les pirates pourrait altérer voir détruire des données et se faire passer pour des personnes légitimes.
 
 C'est une attaque sans précédent, et une attaque important de l'histoire récente. Elle permet de tirer le signal d'alarme quand à l'important de la Sécurité des Systèmes d'Informations.
+
+
+https://www.youtube.com/watch?v=Njr_cHWijXM (vidéo démonstration)
