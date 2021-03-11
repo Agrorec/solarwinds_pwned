@@ -1,6 +1,6 @@
 # SolarWinds
 
-![image](/home/agrorec/psn/solarwinds_pwned/media/solar_intro.jpg)
+![image](media/solar_intro.jpg)
 
 ## Cyberattaque dirigée contre les USA
 
