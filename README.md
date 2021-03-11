@@ -1,4 +1,7 @@
 # SolarWinds
+
+![](/home/agrorec/psn/solarwinds_pwned/media/solar_intro.jpg)
+
 ## Cyberattaque dirigée contre les USA
 
 Le piratage Solarwinds a ciblé le gouvernerment Américain, ses agences fédérales et des entreprises privés.
