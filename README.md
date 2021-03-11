@@ -45,3 +45,9 @@ D'après les enquêteurs fédéraux et les experts en cybersécurité, le servic
 La Russie a nié toute implication dans la brèche.
 
 M.Smith de Microsoft à déclaré qu'il pensait que le Russie était àl'origine de l'attaque. Et Kevin Mandia, PDG de FireEye à déclaré sur la base de l'analyse médico-légale de sa société que l'espionnage et les comportements se raprocher de la manière de faire des Russes.
+
+&nbsp;
+
+## Pourquoi c'est important ?
+
+
