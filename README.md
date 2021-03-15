@@ -7,8 +7,6 @@
 
 Le piratage Solarwinds a ciblé le gouvernerment Américain, ses agences fédérales et des entreprises privés.
 
-Les pirates informatiques aurait d'abord attaqué FireEye
-
 Puis se serait tourné vers Orion un logiciel fourni par la société texane SolarWinds
 
 Récement Microsoft et FireEye ont identifiées 3 nouvelles pieces du malware utilisé par les pirates lors du vaste piratage de SolarWinds l'année dernière
